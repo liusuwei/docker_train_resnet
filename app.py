@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #"""
 #Original file is located at
-#    https://colab.research.google.com/drive/1X0K4ldTkLe0QcT-YVASRECLBVyUcREeM
+#    https://github.com/onnx/models/tree/main/vision/classification/resnet
 #"""
 
 import matplotlib
